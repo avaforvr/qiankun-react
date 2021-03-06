@@ -1,0 +1,5 @@
+{
+    "name": "example-micro",
+    "private": true,
+    "workspaces": ["react-1", "react-2"]
+}
